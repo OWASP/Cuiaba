@@ -61,10 +61,16 @@ __/materials/presentations/:title.html__: show presentations details
 
 __/materials/tools/__: listing owasp tools
 
+
 ### Special Thanks
 * [Dennis Groves](https://www.owasp.org/index.php/User:Dennis_Groves) (Thank you for supporting me in this project)
 * [Kembolle Amilkar](http://www.kembolle.com.br/) (Leader of my Chapter)
 * [Christopher EnyTc](https://github.com/chrisenytc) (Thank you for supporting me too)
+
+
+### Suggestion
+If you have any idea to this project, __[click here](https://github.com/OWASP/Cuiaba/issues/new)__ and create a Issue with suggestion label.
+
 
 ### License
 
