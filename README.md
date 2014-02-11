@@ -1,4 +1,4 @@
-#OWASP Static Website for Chapters - 
+#OWASP Static Website for Chapters
 This static generator projects it's created by [Gabriel Pedro](http://github.com/gpedro) to use in you Chapter (Cuiabá, Mato Grosso - Brasil), but talking with Dennis Groves, the idea was well accepted in a way that perhaps other chapters can use. The positive points of the project are:
 * Lightweight
 * Easy Customization
@@ -23,10 +23,43 @@ rvm install 1.9.3
 gem install jekyll
 ```
 
+### Configuring
+```
+Under Construction
+```
+
 ### How to & Build (Step-by-Step)
 ```
 Under Construction
 ```
+
+### Routes
+
+#### Root
+
+__/__: Landing Page
+
+__/about__: About the Chapter
+
+__/calendar__: Upcoming/Past events/meeting
+
+__/forum__: (we can rename to contact or join in) ~~How to walk with us on the playground~~
+
+#### Blog
+
+__/blog/__: Listing All Posts from Blog
+
+__/blog/:title.html__: Show post
+
+#### Materials
+
+__/materials/__: Listing sub-sections
+
+__/materials/presentations/__: listing presentations
+
+__/materials/presentations/:title.html__: show presentations details
+
+__/materials/tools/__: listing owasp tools
 
 ### Special Thanks
 * [Dennis Groves](https://www.owasp.org/index.php/User:Dennis_Groves) (Thank you for supporting me in this project)
