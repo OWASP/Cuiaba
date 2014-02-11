@@ -1,0 +1,8 @@
+source: ./src
+destination: ./out
+
+permalink: '/blog/:year/:month/:day/:title.html'
+
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
